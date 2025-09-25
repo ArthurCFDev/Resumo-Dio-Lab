@@ -15,3 +15,5 @@ Será adicionado a este repositório o resumo das lições aprendidas durante o 
 
 <img width="1920" height="524" alt="image" src="https://github.com/user-attachments/assets/6e45eee5-efc5-49c1-b1c1-4259b77f0e7d" />
 
+6 - Computação e Rede (Lab), serviços do Azure, manutenção e criação de uma VM, criação de um Pool de Hots, criar APIs e Funções dentro do Azure.
+
