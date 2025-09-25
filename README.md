@@ -9,3 +9,4 @@ Será adicionado a este repositório o resumo das lições aprendidas durante o 
 
 4 - Modelo de Responsabilidade Compartilhada e Comparação dos Serviços de Nuvem IaaS (Infraestrutura como Serviço), PaaS (Plataforma como Serviço) e SaaS (Software como Serviço).
 
+![Modelo de Responsabilidade Compartilhada](images/modelo-responsabilidade.png)
