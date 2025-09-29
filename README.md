@@ -69,3 +69,12 @@ Os modelos do ARM (Azure Resource Manager) são arquivos JSON (JavaScript Object
 
 <img width="1183" height="597" alt="image" src="https://github.com/user-attachments/assets/5d5bfeda-644f-4b08-9e72-93dc8430b65c" />
 
+25 - Ferramentas de Monitoramento do Azure (Assistente do Azure e Integridade do Serviço do Azure)
+
+<img width="1088" height="371" alt="image" src="https://github.com/user-attachments/assets/aba7c739-e8b5-4eef-8b23-a8c2d9d91e07" />
+
+<img width="1051" height="619" alt="image" src="https://github.com/user-attachments/assets/3b75b2ba-294b-4920-8fd9-4d59069a3465" />
+
+<img width="1141" height="197" alt="image" src="https://github.com/user-attachments/assets/155ac7a0-e7ab-44ef-a9f0-1fb4777bcab7" />
+
+<img width="1213" height="261" alt="image" src="https://github.com/user-attachments/assets/3eed2cb6-32fe-4ab9-a247-7d3a7a085126" />
