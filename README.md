@@ -1,4 +1,4 @@
-# Resumo-Dio-Lab
+ # Resumo-Dio-Lab
 Será adicionado a este repositório o resumo das lições aprendidas durante o desenvolvimento do Lab na DIO
 
 1 - IaaS, PaaS, Bastions e Firewalls.
@@ -48,4 +48,24 @@ Será adicionado a este repositório o resumo das lições aprendidas durante o 
 19 - Microsoft Pureview
 
 <img width="1319" height="601" alt="image" src="https://github.com/user-attachments/assets/b91357a9-3326-436a-862e-a87152249487" />
+
+20 - Ferramentas de Gerenciamento de Implantação (Azure Powershell, Azure Cloud Shell, Portal Azure e CLI - Interface de Linha de Comando)
+
+21 - Azure Arc
+
+<img width="1199" height="406" alt="image" src="https://github.com/user-attachments/assets/31be02bd-3fc6-42e5-913e-d2d226b0413e" />
+
+22 - Azure Resource Manager - ARM
+
+<img width="1159" height="201" alt="image" src="https://github.com/user-attachments/assets/dd91a9b4-b40d-42d5-a193-6fc67432bfd5" />
+
+<img width="1003" height="650" alt="image" src="https://github.com/user-attachments/assets/5f2fca64-b981-4ae5-b6df-4568ecbe8fa8" />
+
+23 - Modelos do ARM
+
+Os modelos do ARM (Azure Resource Manager) são arquivos JSON (JavaScript Object Notation) que podem ser usados para criar e implantar a infraestrutura do Azure sem a necessidade de escrever comandos de programação.
+
+24 - Bicep
+
+<img width="1183" height="597" alt="image" src="https://github.com/user-attachments/assets/5d5bfeda-644f-4b08-9e72-93dc8430b65c" />
 
