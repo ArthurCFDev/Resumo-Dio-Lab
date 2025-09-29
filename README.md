@@ -39,4 +39,13 @@ Será adicionado a este repositório o resumo das lições aprendidas durante o 
 
 16 - <img width="1154" height="592" alt="image" src="https://github.com/user-attachments/assets/6cf7a694-8aa5-44b3-91d1-5e0dc3561512" />
 
-17 - 
+17 - Governança e Conformidade
+
+18 - Blueprints, Azure Policy, Bloqueio de Recursos
+
+<img width="1330" height="221" alt="image" src="https://github.com/user-attachments/assets/70a9f40c-990f-4cf0-a874-9079069dfdbd" />
+
+19 - Microsoft Pureview
+
+<img width="1319" height="601" alt="image" src="https://github.com/user-attachments/assets/b91357a9-3326-436a-862e-a87152249487" />
+
