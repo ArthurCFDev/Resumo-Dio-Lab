@@ -17,3 +17,11 @@ Será adicionado a este repositório o resumo das lições aprendidas durante o 
 
 6 - Computação e Rede (Lab), serviços do Azure, manutenção e criação de uma VM, criação de um Pool de Hots, criar APIs e Funções dentro do Azure.
 
+7 - Gerenciamento de Contas através do Azure, Redundância de Armazenamento (LRS, GRS, ZRS, GZRS), Serviços de Armazenamento do Azure, Azure Copy, Blob do Azure, Disco do Azure, Filas do Azure, Tabelas do Azure.
+
+<img width="1119" height="345" alt="image" src="https://github.com/user-attachments/assets/06da96ef-3463-48d2-a8f9-bb4fb2b298c6" />
+
+8 - <img width="1109" height="328" alt="image" src="https://github.com/user-attachments/assets/e8054ccf-9fdf-4024-9b6c-55e8fd3566fd" />
+
+9 - Azure Data Box (até 80TB)
+
