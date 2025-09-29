@@ -25,3 +25,18 @@ Será adicionado a este repositório o resumo das lições aprendidas durante o 
 
 9 - Azure Data Box (até 80TB)
 
+10 - Identidade, acesso e segurança: Métodos de autenticação, Serviços de Diretório e Modelos de Segurança
+
+11 - SSO (Logon Unico), MFA (Autenticação de Multifatores), RBAC (Controle de Acesso Baseado em Função) e Conceito de Confiança Zero
+
+12 - <img width="1283" height="651" alt="image" src="https://github.com/user-attachments/assets/7dce5b3c-211b-46fb-a200-c4089e2eb8b6" />
+
+13 - <img width="1114" height="562" alt="image" src="https://github.com/user-attachments/assets/c610c887-10c1-4566-8d6d-3b865dd1622e" />
+
+14 - <img width="1255" height="721" alt="image" src="https://github.com/user-attachments/assets/84fa6e3d-86ea-4d0f-87fc-1254b6adae64" />
+
+15 - <img width="1209" height="625" alt="image" src="https://github.com/user-attachments/assets/e150aebc-0f1a-4385-869f-a91880a87edb" />
+
+16 - <img width="1154" height="592" alt="image" src="https://github.com/user-attachments/assets/6cf7a694-8aa5-44b3-91d1-5e0dc3561512" />
+
+17 - 
